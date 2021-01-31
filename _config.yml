@@ -1,16 +1,15 @@
 # Site settings
-title: Pudhina Fresh
+title: Abraham Abdala
 short_logo: P.
-description: >
-  A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-baseurl: "/pudhina-fresh" # the subpath of your site, e.g. /blog/
-url: "https://ritijjain.github.io" # the base hostname & protocol for your site
+description: All things tech art
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://aabdala82.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Ritij Jain
-  github: /ritijjain/pudhina-fresh
-  linkedin: /
-  email: /
+  fullname: Abraham Abdala
+  github: 
+  linkedin: 
+  email: 
 
 disqus_name: 
 g_track_id: 
