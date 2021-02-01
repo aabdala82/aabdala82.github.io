@@ -7,7 +7,10 @@ subtitle:
 sitemap:
   priority: 0.9
 ---
-<a href="/assets/docs/AbrahamAbdala_Resume2021.pdf" download>Printable version.</a>
+<a href="/assets/docs/AbrahamAbdala_Resume2021.pdf" download>
+  <img src="/assets/img/pdfLogo.png" width="160" height="40">
+</a>
+
 
 #### <u>Specialties</u>
 * Rigging
