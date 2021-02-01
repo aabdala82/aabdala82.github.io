@@ -1,28 +1,23 @@
 ---
 layout: page
-tags: jekyll theme, jekyll, pudhina fresh theme
+tags: 
 full_logo: true
 title: 
 subtitle: 
 sitemap:
   priority: 0.9
 ---
-#### Specialties
+<a href="/assets/docs/AbrahamAbdala_Resume2021.pdf" download>Printable version.</a>
+
+#### <u>Specialties</u>
 * Rigging
 * Tool Development
 * Dynamic Simulations (Rigid Bodies, Cloth, Hair Systems)
 * Python, C++, MEL
 * Training curriculum development & Teaching
 
-#### Other Skills
-* Modeling
-* 3D Animation
-* Motion Graphics
-* Compositing
-
-#### Work Experience
-
-<span style="color:blue">**Sr. Tool Programmer – HiRez Studios**</span><br/>
+#### <u>Work Experience</u>
+<span style="color:blue">**Sr. Tools Programmer – HiRez Studios**</span><br/>
 August 2020 – present
 * Develop pipeline and DCC tools.
 * Technical documentation
@@ -33,7 +28,7 @@ September 2020 - present
 * Teaching different facets of game development and programming.
 
 <span style="color:blue">**Lead Technical Animator – HiRez Studios**</span><br/>
-November 2016 – present
+November 2016 – August 2020
 * Responsible for supervising and guiding the rigging team in the creation, technical integrity, setup, and implementation of high quality characters, weapons and prop rigs inside and outside the game engine.
 * Develop tools to streamline character/object rigging and animation pipelines.
 * Character/Weapon production pipeline design.
@@ -41,7 +36,7 @@ November 2016 – present
 
 <span style="color:blue">**Lead Technical Animator – Trendy Entertainment**</span><br/>
 June 2012 – November 2016
-* Responsible for approving and/or creating all character/object rigging and skinning (in-game and cinematics).
+* Responsible for approving and creating character/object rigs and skinning (in-game and cinematics).
 * Dynamic simulations with rigid bodies, hair systems and cloth. Simulations then transferred to bones for in-game use.
 * Responsible for the technical integrity, setup, and implementation of characters, weapons, props, and several other featured systems to the game engine.
 * Developing tools to streamline character/object rigging and animation pipeline built in MEL and Python.
@@ -72,7 +67,7 @@ August 2009 – August-2010
 January 2009 - September 2009
 * Modeling, texturing and rendering Poker props for game assets and motion graphics.
 
-#### Education
+#### <u>Education</u>
 <span style="color:blue">**C/C++ Programmer – UCSD Extension**</span><br/>
 September 2020
 
