@@ -1,16 +1,16 @@
 # Site settings
 title: Abraham Abdala # the principal title
-subtitle: Technical Animator - Tool Developer
+subtitle: Technical Artist - Pipeline TD
 short_logo: P.
 description: All things tech art
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "abeabdala.com" # the base hostname & protocol for your site
+url: "https://aabdala82.github.io/" # the base hostname & protocol for your site
 
 author:
   fullname: Abraham Abdala
   github: 
   linkedin: abraham-abdala-599b3913
-  email: abrahamabdala@hotmail.com
+  email: abdala.abe@gmail.com
 
 disqus_name: 
 g_track_id: 
@@ -25,7 +25,7 @@ defaults:
       comments: true
       listed: true
       author: Abraham Abdala
-      author_link: <a href="https://abeabdala.com/">Abraham Abdala<a>
+      author_link: <a href="https://aabdala82.github.io/">Abraham Abdala<a>
   -
     scope:
       path: pages/redirects

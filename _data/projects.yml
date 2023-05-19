@@ -1,4 +1,13 @@
-- name: Rogue Company
+- name: Callisto Protocol
+  id: p1
+  main_link: /
+  img_src: /assets/img/callisto.jpg
+  description_less: >
+    <p>This part of the project description is visible at all times.</p>
+  description_more: >
+    <p>This part is only seen when </p> 
+- 
+name: Rogue Company
   id: p1
   main_link: /
   img_src: /assets/img/roco.jpg
