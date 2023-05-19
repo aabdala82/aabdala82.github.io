@@ -7,28 +7,42 @@ subtitle:
 sitemap:
   priority: 0.9
 ---
-<a href="/assets/docs/AbrahamAbdala_Resume2021.pdf" download>
+<a href="/assets/docs/AbrahamAbdala_Resume.pdf" download>
   <img src="/assets/img/pdfLogo.png" width="160" height="40">
 </a>
 
 
 #### <u>Specialties</u>
-* Rigging
-* Tool Development
+* Pipeline and tool development
+* Rigging (facial, body, props)
 * Dynamic Simulations (Rigid Bodies, Cloth, Hair Systems)
-* Python, C++, MEL
+* Python, C++, C#, MEL
 * Training curriculum development & Teaching
 
 #### <u>Work Experience</u>
+<span style="color:blue">**Sr. Technical Supervisor – PlayStation Studios**</span><br/>
+May  2021 – present
+* Writing, maintaining and customizing tools for specific projects or global use
+* Design and maintenance of pipeline and workflows for tech art and animation
+* Collaborate with engineering and art for new infrastructure and feature requests
+* Write technical and training documentation
+* Work with Production Managers and other department leads to define workflow solutions, project planning,
+setting goals and proper staffing
+* Interact with vendors to properly implement/integrate tools and system environments
+* Manage and train technical artists in department workflows, provide coding standards and reviews
+* Technical support for content teams
+
 <span style="color:blue">**Sr. Tools Programmer – HiRez Studios**</span><br/>
-August 2020 – present
-* Develop pipeline and DCC tools.
+August 2020 – April 2021
+* Develop pipeline and DCC tools
+* Provide technical support for artist
 * Technical documentation
 * UE4 plugins and training documentation
 
 <span style="color:blue">**Part-Time Professor – SCAD Atlanta**</span><br/>
 September 2020 - present
-* Teaching different facets of game development and programming.
+* Teaching different facets of game development and programming
+* Training and curriculum development
 
 <span style="color:blue">**Lead Technical Animator – HiRez Studios**</span><br/>
 November 2016 – August 2020
