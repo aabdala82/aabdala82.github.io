@@ -6,8 +6,8 @@
     <p>This part of the project description is visible at all times.</p>
   description_more: >
     <p>This part is only seen when </p> 
-- 
-name: Rogue Company
+
+- name: Rogue Company
   id: p2
   main_link: /
   img_src: /assets/img/roco.jpg
