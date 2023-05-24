@@ -32,7 +32,7 @@ May 2021 – present
 <span style="color:#00008B">**Sr. Tools Programmer – HiRez Studios**</span><br/>
 August 2020 – April 2021
 * Develop pipeline and DCC tools
-* Provide technical support for artist
+* Provide technical support for artists
 * Technical documentation
 * UE4 plugins and training documentation
 
