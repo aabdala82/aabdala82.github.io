@@ -14,8 +14,11 @@ sitemap:
 * Rigging (facial, body, props)
 * Dynamic Simulations (Rigid Bodies, Cloth, Hair Systems)
 * Python, C++, C#, MEL
+* Maya API, MotionBuilder API, 3D Math
 * Unreal Engine Animation Workflows
-* Mentoring and developing training curriculum
+* Leadership and Mentoring
+* Developing training curriculum
+
 
 #### <u>Work Experience</u>
 <span style="color:#00008B">**Sr. Technical Supervisor – PlayStation Studios**</span><br/>
@@ -24,7 +27,7 @@ May 2021 – present
 * Design and maintenance of pipeline and workflows for tech art and animation
 * Collaborate with engineering and art for new infrastructure and feature requests
 * Write technical and training documentation
-* Work with Production Managers and other department leads to define workflow solutions, project planning, setting goals and staffing
+* Work with Production Managers and other department supervisors and leads to define workflow solutions, project planning, setting goals and staffing
 * Interact with vendors to properly implement/integrate tools and system environments
 * Manage and mentor tech artists (Leads to Juniors)
 * Technical support for content teams
