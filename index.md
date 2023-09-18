@@ -10,55 +10,60 @@ sitemap:
 
 
 #### <u>Skills</u>
-* Pipeline and tool development
-* Rigging (facial, body, props)
+* Pipeline, workflow and tool development
+* Team management, leadership and mentoring
+* Rigging (face, body, props)
 * Dynamic Simulations (Rigid Bodies, Cloth, Hair Systems)
 * Python, C++, C#, MEL
-* Maya API, MotionBuilder API, 3D Math
-* Unreal Engine Animation Workflows
-* Leadership and Mentoring
+* PyQt, Maya API, MotionBuilder API, 3D Math
+* Unreal Engine Animation Workflows 
 * Developing training curriculum
 
 
 #### <u>Work Experience</u>
-<span style="color:#00008B">**Sr. Technical Supervisor – PlayStation Studios**</span><br/>
+<span style="color:#00008B">**Sr. Technical Art Supervisor – PlayStation Studios**</span><br/>
 May 2021 – present
-* Writing, maintaining and customizing tools for specific projects or global use
-* Design and maintenance of pipeline and workflows for tech art and animation
-* Collaborate with engineering and art for new infrastructure and feature requests
-* Write technical and training documentation
-* Work with Production Managers and other department supervisors and leads to define workflow solutions, project planning, setting goals and staffing
-* Interact with vendors to properly implement/integrate tools and system environments
-* Manage and mentor tech artists (Leads to Juniors)
-* Technical support for content teams
+* Manage, guide and mentor technical artists, with varying levels of experience, across multiple projects. 
+* Design, maintain, and review stable and scalable tools and systems for specific projects or global use. 
+* Design, support and implement pipelines and workflows for technical art and other disciplines. 
+* Collaborate with engineering and art for new infrastructure and feature requests.
+* Work with production and other department managers and leads defining workflow solutions, project planning, goal setting, growth opportunities and staffing. 
+* Interact with vendors to properly implement/integrate tools and system environments.
+* Build and maintain technical and training documentation.
+* Technical support for content teams.
+* Collaborate with R&D projects involving animation, dynamics, machine learning, real time rendering, etc.
 
 <span style="color:#00008B">**Sr. Tools Programmer – HiRez Studios**</span><br/>
 August 2020 – April 2021
-* Develop pipeline and DCC tools
-* Provide technical support for artists
-* Technical documentation
-* UE4 plugins and training documentation
+* Design, develop and maintain stable and scalable pipeline systems and DCC tools for multiple teams.
+* Provide technical support for artists of different departments.
+* Collaborating with engineering and department leads to resolve production workflow needs.
+* Technical documentation.
+* UE4 plugins and training documentation. 
 
 <span style="color:#00008B">**Part-Time Professor – SCAD Atlanta**</span><br/>
 September 2020 - June 2021
-* Teaching different facets of game development and programming
-* Training and curriculum development
+* Teaching different facets of game development and programming.
+* Training and curriculum development.
 
 <span style="color:#00008B">**Lead Technical Animator – HiRez Studios**</span><br/>
 November 2016 – August 2020
-* Responsible for supervising and guiding the rigging team in the creation, technical integrity, setup, and implementation of high quality characters, weapons and prop rigs inside and outside the game engine.
-* Develop tools to streamline character/object rigging and animation pipelines.
-* Character/Weapon production pipeline design.
-* Train new hires and current tech artists in latest rigging techniques and procedures.
+* Managed, mentored and guided the character tech art team in the creation, technical integrity, setup, and implementation of high-quality characters, weapons and prop rigs inside and outside the game engine.
+* Worked closely with production and other department leads/managers to establish workflows, pipelines and growth opportunities for the team.
+* Designed and developed tools to streamline the rigging and animation pipelines.
+* Character/Weapon production pipeline design for multiple projects.
+* Train new hires and current tech artists in the latest rigging techniques and procedures. 
 
 <span style="color:#00008B">**Lead Technical Animator – Trendy Entertainment**</span><br/>
 June 2012 – November 2016
-* Responsible for approving and creating character/object rigs and skinning (in-game and cinematics).
-* Dynamic simulations with rigid bodies, hair systems and cloth. Simulations then transferred to bones for in-game use.
+* Managed and mentored a team of technical artists and animators.
+* Responsible for approving and creating character/prop rigs and skinning (in-game and cinematics).
+* Dynamic simulations with rigid bodies, hair systems and cloth.
 * Responsible for the technical integrity, setup, and implementation of characters, weapons, props, and several other featured systems to the game engine.
-* Developing tools to streamline character/object rigging and animation pipeline built in MEL and Python.
+* Developed tools and systems to streamline the rigging and animation workflow and pipeline.
 * Responsible for in-game cinematics’ setup, compositing, post effects and final render.
 * Responsible for motion graphics used in our game’s main menu screen and marketing videos.
+* Collaborate with multiple departments to resolve immediate and long-term production needs. 
 
 <span style="color:#00008B">**Senior Technical Animator – Microsoft R&D Team**</span><br/>
 February 2015 – February 2016
@@ -69,12 +74,12 @@ February 2015 – February 2016
 <span style="color:#00008B">**Stereo Compositor/Technical Director/Lead Training Specialist – Legend 3D**</span><br/>
 January 2011 – July 2012
 * Compositing, tracking, clean plates, roto/paint, converting 2D to stereoscopic 3D for feature film.
-* Developing proprietary tools for Nuke built in C++ & Python.
+* Developing proprietary tools for Nuke, built in C++ & Python.
 * Developed training modules for new hires and current artists in the latest compositing techniques and tools.
 
 <span style="color:#00008B">**Faculty (3D Modeling/ Animation) – NewSchool of Architecture & Design**</span><br/>
 July 2011 – December 2011
-* Teaching students the 3D modeling, texturing, lighting, animation and rendering process and techniques.
+* Taught 3D modeling, texturing, lighting, animation and rendering process and techniques.
 
 <span style="color:#00008B">**3D Generalist/Technical Artist – Animatic Media**</span><br/>
 August 2009 – August-2010
