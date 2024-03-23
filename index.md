@@ -10,15 +10,14 @@ sitemap:
 
 
 #### <u>Skills</u>
-* Pipeline, workflow and tool development
+* Pipeline and tool development for rigging and animation workflows
 * Team management, leadership and mentoring
 * Rigging (face, body, props)
-* Dynamic Simulations (Rigid Bodies, Cloth, Hair Systems)
+* Dynamic Simulations (Cloth, Hair, Rigid Bodies)
 * Python, C++, C#, MEL
 * PyQt, Maya API, MotionBuilder API, 3D Math
-* Unreal Engine Animation Workflows 
+* Unreal Engine animation systems implementation and workflows  
 * Developing training curriculum
-
 
 #### <u>Work Experience</u>
 <span style="color:#00008B">**Sr. Technical Art Supervisor – PlayStation Studios**</span><br/>
@@ -27,6 +26,7 @@ May 2021 – present
 * Design, maintain, and review stable and scalable tools and systems for specific projects or global use. 
 * Design, support and implement pipelines and workflows for technical art and other disciplines. 
 * Collaborate with engineering and art for new infrastructure and feature requests.
+* Supervised deformation and control rig creation and implementation including skeletons, skinning, cloth, rigid body and ragdoll physics, animation blueprints, blending and retargeting.
 * Work with production and other department managers and leads defining workflow solutions, project planning, goal setting, growth opportunities and staffing. 
 * Interact with vendors to properly implement/integrate tools and system environments.
 * Build and maintain technical and training documentation.
