@@ -10,13 +10,13 @@ sitemap:
 
 
 #### <u>Skills</u>
-* Pipeline and tool development for rigging and animation workflows
+* Pipeline and tool development for rigging, animation and art production workflows
 * Team management, leadership and mentoring
 * Rigging (face, body, props)
 * Dynamic Simulations (Cloth, Hair, Rigid Bodies)
 * Python, C++, C#, MEL
 * PyQt, Maya API, MotionBuilder API, 3D Math
-* Unreal Engine animation systems implementation and workflows  
+* Unreal/Unity Engine animation systems implementation and workflows
 * Developing training curriculum
 
 #### <u>Work Experience</u>
