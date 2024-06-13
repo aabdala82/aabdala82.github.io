@@ -24,7 +24,7 @@ sitemap:
 May 2021 – present
 * Manage, guide and mentor technical artists, with varying levels of experience, across multiple projects. 
 * Design, maintain, and review stable and scalable tools and systems for specific projects or global use. 
-* Design, support and implement pipelines and workflows for technical art and other disciplines. 
+* Design, support and implement pipelines and workflows for animation, rigging, environment and character art. 
 * Collaborate with engineering and art for new infrastructure and feature requests.
 * Supervise deformation and control rig creation and implementation including skeletons, skinning, cloth, rigid body and ragdoll physics, animation blueprints, blending and retargeting.
 * Work with production and other department managers and leads defining workflow solutions, project planning, goal setting, growth opportunities and staffing. 
