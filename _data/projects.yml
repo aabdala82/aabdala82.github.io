@@ -1,5 +1,32 @@
-- name: Callisto Protocol
+- name: Rainbow Six Siege
   id: p1
+  main_link: /
+  img_src: /assets/img/r6s.jpg
+  description_less: >
+    <p>This part of the project description is visible at all times.</p>
+  description_more: >
+    <p>This part is only seen when </p> 
+
+- name: XDefiant
+  id: p2
+  main_link: /
+  img_src: /assets/img/xdef.jpg
+  description_less: >
+    <p>This part of the project description is visible at all times.</p>
+  description_more: >
+    <p>This part is only seen when </p> 
+
+- name: Concord
+  id: p3
+  main_link: /
+  img_src: /assets/img/concord.jpg
+  description_less: >
+    <p>This part of the project description is visible at all times.</p>
+  description_more: >
+    <p>This part is only seen when </p> 
+
+- name: Callisto Protocol
+  id: p4
   main_link: /
   img_src: /assets/img/callisto.jpg
   description_less: >
@@ -8,7 +35,7 @@
     <p>This part is only seen when </p> 
 
 - name: Rogue Company
-  id: p2
+  id: p5
   main_link: /
   img_src: /assets/img/roco.jpg
   description_less: >
@@ -17,7 +44,7 @@
     <p>This part is only seen when </p>    
 
 - name: Realm Royale
-  id: p3
+  id: p6
   main_link: /
   img_src: /assets/img/rr.jpg
   description_less: >
@@ -26,7 +53,7 @@
     <p>This part is only seen when you click on the project card.</p>
 
 - name: Paladins
-  id: p4
+  id: p7
   main_link: /
   img_src: /assets/img/paladins.jpg
   description_less: >
@@ -35,7 +62,7 @@
     <p>This part is only seen when you click on the project card.</p>
 
 - name: Dungeon Defenders 2
-  id: p5
+  id: p8
   main_link: /
   img_src: /assets/img/dd2.jpg
   description_less: >
@@ -44,7 +71,7 @@
     <p>This part is only seen when you click on the project card.</p>
 
 - name: Dungeon Defenders Eternity
-  id: p6
+  id: p9
   main_link: /
   img_src: /assets/img/ddet.jpg
   description_less: >

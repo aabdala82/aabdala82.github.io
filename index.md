@@ -20,8 +20,17 @@ sitemap:
 * Developing training curriculum
 
 #### <u>Work Experience</u>
+<span style="color:#00008B">**Lead Technical Animator – Ubisoft (Red Storm Entertainment)**</span><br/>
+July 2024 – present
+* Manage and mentor a team of technical artists and animators.
+* Work with character, and animation teams defining and creating rigs, control interfaces, tools and workflows.
+* Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, and process.
+* Worked closely with engineering to create and maintain engine and DCC tools and pipelines for rigging and animation initiatives.
+* Build and maintain technical and training documentation.
+* Technical support for content teams.
+
 <span style="color:#00008B">**Sr. Technical Art Supervisor – PlayStation Studios**</span><br/>
-May 2021 – present
+May 2021 – July 2024
 * Manage, guide and mentor technical artists, with varying levels of experience, across multiple projects. 
 * Design, maintain, and review stable and scalable tools and systems for specific projects or global use. 
 * Design, support and implement pipelines and workflows for animation, rigging, environment and character art. 
