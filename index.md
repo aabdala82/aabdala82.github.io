@@ -25,7 +25,7 @@ July 2024 – present
 * Manage and mentor a team of technical artists and animators.
 * Work with character, and animation teams defining and creating rigs, control interfaces, tools and workflows.
 * Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, and process.
-* Worked closely with engineering to create and maintain engine and DCC tools and pipelines for rigging and animation initiatives.
+* Worked closely with engineering to create and maintain engine and DCC tools and pipelines for rigging, animation and machine learning initiatives.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
 
