@@ -13,8 +13,8 @@ sitemap:
 * Pipeline and tool development for rigging, animation and art production workflows
 * Team management, leadership and mentoring
 * Rigging (face, body, props)
-* Dynamic Simulations (Cloth, Hair, Rigid Bodies)
-* Python, C++, C#, MEL
+* Dynamic Simulations (cloth, hair, muscles, rigid bodies)
+* Python, C++, C#, MEL, VEX
 * PyQt, Maya API, MotionBuilder API, 3D Math
 * Unreal/Unity Engine animation systems implementation and workflows
 * Developing training curriculum
@@ -25,11 +25,12 @@ July 2024 – present
 * Manage and mentor a team of technical artists and animators.
 * Work with character, and animation teams defining and creating rigs, control interfaces, tools and workflows.
 * Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, and process.
-* Worked closely with engineering to create and maintain engine and DCC tools and pipelines for rigging, animation and machine learning initiatives.
+* Work closely with engineering to create and maintain engine and DCC tools and pipelines for rigging, animation and machine learning initiatives.
+* Work collaboratively with cross-functional teams including engineers, researchers and product managers on various R&D and ML based projects.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
 
-<span style="color:#00008B">**Sr. Technical Art Supervisor – PlayStation Studios**</span><br/>
+<span style="color:#00008B">**Sr. Technical Art Supervisor – PlayStation Studios Visual Arts**</span><br/>
 May 2021 – July 2024
 * Manage, guide and mentor technical artists, with varying levels of experience, across multiple projects. 
 * Design, maintain, and review stable and scalable tools and systems for specific projects or global use. 
@@ -46,7 +47,7 @@ May 2021 – July 2024
 August 2020 – April 2021
 * Design, develop and maintain stable and scalable pipeline systems and DCC tools for multiple teams.
 * Provide technical support for artists of different departments.
-* Collaborating with engineering and department leads to resolve production workflow needs.
+* Collaborate with engineering and department leads to resolve production workflow needs.
 * Technical documentation.
 * UE4 plugins and training documentation. 
 
