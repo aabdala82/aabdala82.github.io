@@ -14,7 +14,7 @@ sitemap:
 * Team management, leadership and mentoring
 * Rigging (face, body, props)
 * Dynamic Simulations (cloth, hair, muscles, rigid bodies)
-* Python, C++, C#, MEL, VEX
+* Python, C++, C#, MEL, VEX, HLSL
 * PyQt, Maya API, MotionBuilder API, 3D Math
 * Unreal/Unity Engine animation systems implementation and workflows
 * Developing training curriculum
@@ -24,9 +24,10 @@ sitemap:
 July 2024 – present
 * Manage and mentor a team of technical artists and animators.
 * Work with character, and animation teams defining and creating rigs, control interfaces, tools and workflows.
-* Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, and process.
+* Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, USD workflows and process.
 * Work closely with engineering to create and maintain engine and DCC tools and pipelines for rigging, animation and machine learning initiatives.
 * Work collaboratively with cross-functional teams including engineers, researchers and product managers on various R&D and ML based projects.
+* Diagnose and run performance tests on new features and assets.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
 
@@ -41,7 +42,7 @@ May 2021 – July 2024
 * Interact with vendors to properly implement/integrate tools and system environments.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
-* Collaborate with R&D projects involving animation, dynamics, machine learning, real time rendering, etc.
+* Collaborate in R&D projects involving animation, dynamics, machine learning, real time rendering, and USD setups.
 
 <span style="color:#00008B">**Sr. Tools Programmer – HiRez Studios**</span><br/>
 August 2020 – April 2021
