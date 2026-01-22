@@ -21,6 +21,21 @@
     padding-top: 20px;
     font-weight: 500; }
 
+  .centered-new{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    padding-bottom: 50px;
+  }
+
+  .centered-old{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+  }
+
   img {
     display: block;
     max-width: 100%; }
@@ -49,12 +64,32 @@
     margin-bottom: 1rem;
     border: 1px solid #dee2e6;
   }
+
+  .top-border-only {
+  border-collapse: collapse; /* Merges adjacent borders into a single border */
+  border-right: none; /* Explicitly removes other borders */
+  border-left: none;
+  width: 100%;
+}
+
+.top-border-only td, .top-border-only th {
+  border: none; /* Removes all default borders */
+  padding: 10px;
+  border-top: 1px solid black; /* Adds a top border to all cells */
+  text-align: left;
+}
+
+/* Optional: Add a bottom border to the entire table for a complete look */
+.top-border-only tbody tr:last-child td {
+  border-bottom: 1px solid black;
+}
+
   
-  td, th {
+  /* td, th {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
-  }
+  } */
 /*  
   tr:nth-child(even) {
     background-color: #dddddd;

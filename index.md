@@ -12,7 +12,7 @@ sitemap:
 #### <u>Skills</u>
 * Pipeline and tool development for rigging, animation and art production workflows
 * Team management, leadership and mentoring
-* Rigging (face, body, props)
+* Rigging (face, body, vehicles, props)
 * Dynamic Simulations (cloth, hair, muscles, rigid bodies)
 * Python, C++, C#, MEL, VEX, HLSL
 * PyQt, Maya API, MotionBuilder API, 3D Math
@@ -23,10 +23,10 @@ sitemap:
 <span style="color:#00008B">**Lead Technical Animator – Ubisoft (Red Storm Entertainment)**</span><br/>
 July 2024 – present
 * Manage and mentor a team of technical artists and animators.
-* Work with character, and animation teams defining and creating rigs, control interfaces, tools and workflows.
+* Work with character, and animation teams creating and extending rigs, control interfaces, tools and workflows.
 * Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, USD workflows and process.
-* Work closely with engineering to create and maintain engine and DCC tools and pipelines for rigging, animation and machine learning initiatives.
-* Work collaboratively with cross-functional teams including engineers, researchers and product managers on various R&D and ML based projects.
+* Work closely with engineering to create, extend, and maintain engine, DCC tools and pipelines for rigging and animation initiatives.
+* Work collaboratively with cross-functional teams including engineers, researchers and product managers on various prototypes, R&D, and ML based projects.
 * Diagnose and run performance tests on new features and assets.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
