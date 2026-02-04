@@ -1,0 +1,9 @@
+- name: Sequencer Setup
+  id: p1
+  main_link: /
+  img_src: /assets/img/SeqSetupTool.png
+  description_less: >
+    <p>This part of the project description is visible at all times.</p>
+  description_more: >
+    <p>This part is only seen when </p> 
+

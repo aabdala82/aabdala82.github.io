@@ -5,13 +5,13 @@ subtitle: Published projects I have worked on
 permalink: /projects/
 ---
 
-<div class="row">
+<div class="projects-grid">
   {% for project in site.data.projects %}
   <div class="column">
-  <div class="card" style="width:300px">
-    {% if project.img_src %}
-    <img class="card-img-top" src="{{ site.baseurl }}{{ project.img_src }}">
-    {% endif %}    
+    <div class="card" style="width:300px">
+      {% if project.img_src %}
+      <img class="card-img-top" src="{{ site.baseurl }}{{ project.img_src }}">
+      {% endif %}    
   </div>
 </div>
   {% endfor %}

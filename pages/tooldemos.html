@@ -1,0 +1,23 @@
+---
+layout: page
+title: Tools
+subtitle: Personal Tool Projects
+permalink: /tooldemos/
+---
+
+
+<div class="tool-demos-grid">
+  {% for tool in site.data.tool_demos %}
+  <div class="column">
+    <div class="image-container">
+      <a href="{{ site.baseurl }}/tool_sequencersetup"><img class="card-img-top" src="{{ site.baseurl }}{{ tool.img_src }}" alt="Sequencer Setup Demo"></a>
+      <div class="lower-third-overlay">
+        <h3>{{ tool.name }}</h3>
+    </div>
+  </div>
+</div>
+  {% endfor %}
+</div>
+
+
+

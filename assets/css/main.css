@@ -36,6 +36,17 @@
     align-items: center; /* Centers vertically */
   }
 
+  .tool-breakdown{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    width: 50%;
+    margin: auto;
+  }
+
+
+
   img {
     display: block;
     max-width: 100%; }
@@ -84,6 +95,18 @@
   border-bottom: 1px solid black;
 }
 
+
+.projects-grid{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+}
+
+.card{
+  margin: 0.2rem;
+}
   
   /* td, th {
     border: 1px solid #dddddd;
@@ -490,3 +513,63 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+
+  /* Tool Card test*/
+  .tool-demos-grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+  }
+
+
+  .image-container {
+  /* Set the container position to relative so the absolute positioning of the overlay works correctly */
+  position: relative;
+  /* Optional: Set a specific width and height for the container, or allow it to size based on the image */
+  width: 400px;
+  max-width: 600px; /* Example width */
+  margin: 0.2rem; /* Center the container on the page */
+}
+
+.image-container img {
+  /* Ensure the image fills the container width and maintains aspect ratio */
+  width: 100%;
+  height: auto;
+  display: block; /* Removes extra space below the image */
+}
+
+.image-container:hover img {
+    opacity: 0.7; /* Image becomes 50% transparent */
+}
+
+.lower-third-overlay {
+  /* Position the overlay absolutely within its relative parent */
+  position: absolute;
+  /* Position the overlay at the bottom left corner */
+  bottom: 0;
+  left: 0;
+  /* Make the overlay span the full width of the image */
+  width: 100%;
+  /* Optional: Add a semi-transparent background for better text readability */
+  background-color: rgba(0, 0, 0, 0.6);
+  /* Style the text */
+  color: white;
+  padding: 10px;
+  box-sizing: border-box; /* Ensures padding is included in the width */
+}
+
+.lower-third-overlay h3 {
+  margin: 0; /* Remove default margin */
+  font-size: 1.6em;
+  text-align: center;
+  padding: 0;
+  color: #ccc;
+}
+
+.lower-third-overlay p {
+  margin: 0; /* Remove default margin */
+  font-size: 0.9em;
+}
