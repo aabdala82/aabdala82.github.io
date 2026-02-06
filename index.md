@@ -13,10 +13,10 @@ sitemap:
 * Pipeline and tool development for rigging, animation and art production workflows
 * Team management, leadership and mentoring
 * Rigging (face, body, vehicles, props)
-* Dynamic Simulations (cloth, hair, muscles, rigid bodies)
-* Python, C++, C#, MEL, VEX, HLSL
-* PyQt, Maya API, MotionBuilder API, 3D Math
-* Unreal/Unity Engine animation systems implementation and workflows
+* Dynamic simulations & procedural setups
+* Python, C++, C#, MEL, VEX, PyQt, Slate, HLSL
+* Maya, MotionBuilder, Houdini, 3DSMax, Blender
+* Animation systems implementation and workflow design
 * Developing training curriculum
 
 #### <u>Work Experience</u>
@@ -24,9 +24,10 @@ sitemap:
 July 2024 – present
 * Manage and mentor a team of technical artists and animators.
 * Work with character, and animation teams creating and extending rigs, control interfaces, tools and workflows.
-* Collaborate with partner studios in the development of asset pipelines providing feedback on ideas, features, game-play, USD workflows and process.
+* Collaborate with partner studios developing asset pipelines and providing feedback on ideas, features, gameplay, workflows and process.
 * Work closely with engineering to create, extend, and maintain engine, DCC tools and pipelines for rigging and animation initiatives.
-* Work collaboratively with cross-functional teams including engineers, researchers and product managers on various prototypes, R&D, and ML based projects.
+* Work collaboratively with cross-functional teams including engineers, researchers and product managers on various prototypes, R&D, and ML based projects using Houdini to generate training data.
+* Develop efficient, reusable procedular workflows in Houdini by utilizing VOPs, VEX and Python integrations as needed.
 * Diagnose and run performance tests on new features and assets.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
