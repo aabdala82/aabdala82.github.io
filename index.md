@@ -14,7 +14,7 @@ sitemap:
 * Team management, leadership and mentoring
 * Rigging (face, body, vehicles, props)
 * Dynamic simulations & procedural setups
-* Python, C++, C#, MEL, VEX, PyQt, Slate, HLSL
+* Python, C++, C#, MEL, VEX, Qt, Slate, HLSL
 * Maya, MotionBuilder, Houdini, 3DSMax, Blender
 * Animation systems implementation and workflow design
 * Developing training curriculum
@@ -25,19 +25,19 @@ July 2024 – present
 * Manage and mentor a team of technical artists and animators.
 * Work with character, and animation teams creating and extending rigs, control interfaces, tools and workflows.
 * Collaborate with partner studios developing asset pipelines and providing feedback on ideas, features, gameplay, workflows and process.
-* Work closely with engineering to create, extend, and maintain engine, DCC tools and pipelines for rigging and animation initiatives.
+* Work closely with engineering to create, extend, and maintain engine tools, DCC tools, pipelines and validation workflows for rigging and animation initiatives.
 * Work collaboratively with cross-functional teams including engineers, researchers and product managers on various prototypes, R&D, and ML based projects using Houdini to generate training data.
 * Develop efficient, reusable procedular workflows in Houdini by utilizing VOPs, VEX and Python integrations as needed.
-* Diagnose and run performance tests on new features and assets.
+* Diagnose and run performance tests on new features and assets, optimizing processes where needed.
 * Build and maintain technical and training documentation.
 * Technical support for content teams.
 
 <span style="color:#00008B">**Sr. Technical Art Supervisor – PlayStation Studios Visual Arts**</span><br/>
 May 2021 – July 2024
-* Manage, guide and mentor technical artists, with varying levels of experience, across multiple projects. 
-* Design, maintain, and review stable and scalable tools and systems for specific projects or global use. 
-* Design, support and implement pipelines and workflows for animation, rigging, environment and character art. 
-* Collaborate with engineering and art for new infrastructure and feature requests.
+* Manage, guide and mentor technical artists, with varying levels of experience, across multiple projects.
+* Design, maintain, and review stable and scalable tools and systems for specific projects or global use.
+* Design, support and implement pipelines and workflows for animation, rigging, environment and character art.
+* Collaborate with engineering and art for new infrastructure and feature requests, automation and testing.
 * Supervise deformation and control rig creation and implementation including skeletons, skinning, cloth, rigid body and ragdoll physics, animation blueprints, blending and retargeting.
 * Work with production and other department managers and leads defining workflow solutions, project planning, goal setting, growth opportunities and staffing. 
 * Interact with vendors to properly implement/integrate tools and system environments.
@@ -49,7 +49,7 @@ May 2021 – July 2024
 August 2020 – April 2021
 * Design, develop and maintain stable and scalable pipeline systems and DCC tools for multiple teams.
 * Provide technical support for artists of different departments.
-* Collaborate with engineering and department leads to resolve production workflow needs.
+* Collaborate with engineering and art leads to resolve production workflow needs, validation and testing.
 * Technical documentation.
 * UE4 plugins and training documentation. 
 
