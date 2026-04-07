@@ -1,0 +1,19 @@
+---
+layout: page
+title: Motion Design
+subtitle: Compilation of my past work
+permalink: /motiondesign/
+---
+
+<div class="tool-demos-grid">
+  {% for tool in site.data.mograph_demos %}
+  <div class="column">
+    <div class="image-container">
+      <a href="{{ site.baseurl }}/currentmographreel"><img class="card-img-top" src="{{ site.baseurl }}{{ tool.img_src }}" alt="Motion Design Showreel"></a>
+      <div class="lower-third-overlay">
+        <h3>{{ tool.name }}</h3>
+    </div>
+  </div>
+</div>
+  {% endfor %}
+</div>
